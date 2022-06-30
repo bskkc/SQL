@@ -1,2 +1,2 @@
 # SQL
- belongs to my sql classes
+ My projects of my sql classes
